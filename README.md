@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoryCMyers
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Myers.CoryC@Gmail.com
 
